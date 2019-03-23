@@ -1,11 +1,13 @@
-img {
-  width: 15%}
-
-#dislike {
-background-color: red;
+body{
+background: linear-gradient(to right, lightgreen,Turquoise)
+}
+  
+h1 {
+  font-family:Comic Sans MS;
+  font-size:;
 }
 
-#like {
-background-color: lightBlue;
-  font-color:
+h2 {
+  font-family:Lucida Grande;
+  font-size:;
 }
